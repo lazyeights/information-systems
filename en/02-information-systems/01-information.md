@@ -1,0 +1,11 @@
+## Information
+
+We frequently hear that civilization is presently witnessing the "Information Age." For the past several decades, the advancement of technology has been driven by a new paradigm of understanding that surpasses the mere tangible world. People now know that *information*, surprisingly, is not just a philosophical notion, but something can actually be quantified, measured, analyzed, and transformed in a well-defined mathematical sense.
+
+Claude Shannon is widely credited with launching the scientific field of Information Theory through his publication of a "A Mathematical Theory of Communication." Shannon explored the fundamental mathematics at issue when dealing with information and the communication of information in order. Some readers may be surprised to learn that, according to Shannon's theory, the first paragraph of this paper contains only 1740 bits of information, even though its computer representation takes of 2784 bits of storage space.
+
+These mathematical understandings about what information is and how to measure it have led to an information revolution, resulting in advancements in digital computers, communication, data compression, quantum computing, philosophy[^flo2005]. There is even an aspect of theoretical physics that posits that all the information that makes up the three-dimensional world as we experience is actually encoded as a two-dimensional structure -- just like a hologram appears to have depth, yet is physically flat.
+
+But for our purposes, the recent investigation into the nature of information itself, rather than its application to hard sciences and engineering, is important. The elevation of information as something to be understood allows us to look introspectively into how the processing of information is applied as a "basic tool" among humans. One area studying information looks at how information is used systematically in organizations. Unsurprisingly, this field of theory is called "information systems."
+
+[^flo2005]: Is Semantic Information Meaningful Data?, Philosophy and Phenomenological Research Vol. LXX, No. 2, March 2005.
