@@ -22,11 +22,11 @@ No computers are present in this example, even though they could have been used.
 
 The basics of an information system are four-fold, as seen in Fig. ___ below. Data is received by an input means. Processing means manipulate the data to produce information. An output means presents or displays the information in useful form. Storage means help retain the information, which may be only temporary as during the processing, or may be for much longer, until recalled at a later time.
 
-![Input-Processing=Storage-Output](figures/information-system.png)
+![Input-Processing=Storage-Output](images/information-system.png)
 
 Oftentimes times a fifth aspect is involved: communication. And that is because an information system can be described as a larger system comprising of various *information subsystems*. In order to interoperate, these systems must talk to each other, exchanging the data and information that is being processed, as seen in Figure ___ below.
 
-![Network-Subsystems](figures/information-subsystems.png)
+![Network-Subsystems](images/information-subsystems.png)
 
 The reader can see that an information system is actually a very simple model of how a human being interacts with the environment. [^von] The senses (e.g., sight and hearing) are the input means. The processing and storage means are the brain, which seeks to comprehend the data collected by the senses and remember them and their meaning. The output means are the muscles controlled by motor neurons (e.g., voice and limb movement). Finally, humans interact with each other in organizations by communication, whether oral, written, through non-verbal cues, or by computers. A collection of people as a whole, such as a news organization, can input data of current events, work together to create meaningful information from the chaos, and output useful information in print, television or the Internet. Returning to our medical diagnosis example, the patient and doctor are each an information subsystem comprising an overall system where both actors are in communication.[^vander]
 
