@@ -1,6 +1,6 @@
 ## The Information System
 
-Before we describe what an information system is we must first address the ambiguity of the word *information*.  Because information has several semantic meanings, researchers of information systems have generally adopted two other words -- data and knowledge -- that help distinguish among these different meanings.[^info] Briefly, *data* refers to the syntax, *information* is its interpretation, and *knowledge* is how people use the information.[^derAalst].  Stated another way, data is input that is processed and output into meaningful information to convey knowledge as understanding, experience, accumulated learning, and expertise.[^tra1991] For example, "January 29, 1966" may be a sequence of letters and numbers (data), processed as a person's birthday (information), and can inform us when to throw a big party because the person has turned fifty years old (knowledge).
+Before we describe what an information system is we must first address the ambiguity of the word *information*.  Because information has several semantic meanings, researchers of information systems have generally adopted two other words---data and knowledge---that help distinguish among these different meanings.[^info] Briefly, *data* refers to the syntax, *information* is its interpretation, and *knowledge* is how people use the information.[^derAalst].  Stated another way, data is input that is processed and output into meaningful information to convey knowledge as understanding, experience, accumulated learning, and expertise.[^tra1991] For example, "January 29, 1966" may be a sequence of letters and numbers (data), processed as a person's birthday (information), and can inform us when to throw a big party because the person has turned fifty years old (knowledge).
 
 [^tra1991]: Eileen M. Trauth et al, Information Literacy: An Introduction to Information Systems (1st Ed. 1991)
 
@@ -18,15 +18,15 @@ An *information system* is a system that manages and processes data and informat
 
 In this example, the doctor receives data from a patient as a description of symptoms; the doctor processes the data based upon pre-existing medical knowledge to derive useful information in the form of a diagnosis. The doctor now has the knowledge to determine what treatments to use on the patient. The doctor manages this information by storing it with the data and associated knowledge.
 
-No computers are present in this example, even though they could have been used. Instead, we are presented with merely an organization of humans -- a patient and a doctor -- following a defined process: communicating symptoms and processing those symptoms to determine a treatment. In fact, understanding that the concept of an information system is not bound by any computer technology is critically important for our purposes.
+No computers are present in this example, even though they could have been used. Instead, we are presented with merely an organization of humans---a patient and a doctor---following a defined process: communicating symptoms and processing those symptoms to determine a treatment. In fact, understanding that the concept of an information system is not bound by any computer technology is critically important for our purposes.
 
 The basics of an information system are four-fold, as seen in Fig. ___ below. Data is received by an input means. Processing means manipulate the data to produce information. An output means presents or displays the information in useful form. Storage means help retain the information, which may be only temporary as during the processing, or may be for much longer, until recalled at a later time.
 
-![Input-Processing=Storage-Output](images/information-system.png)
+![Input-Processing=Storage-Output](assets/information-system.png)
 
 Oftentimes times a fifth aspect is involved: communication. And that is because an information system can be described as a larger system comprising of various *information subsystems*. In order to interoperate, these systems must talk to each other, exchanging the data and information that is being processed, as seen in Figure ___ below.
 
-![Network-Subsystems](images/information-subsystems.png)
+![Network-Subsystems](assets/information-subsystems.png)
 
 The reader can see that an information system is actually a very simple model of how a human being interacts with the environment. [^von] The senses (e.g., sight and hearing) are the input means. The processing and storage means are the brain, which seeks to comprehend the data collected by the senses and remember them and their meaning. The output means are the muscles controlled by motor neurons (e.g., voice and limb movement). Finally, humans interact with each other in organizations by communication, whether oral, written, through non-verbal cues, or by computers. A collection of people as a whole, such as a news organization, can input data of current events, work together to create meaningful information from the chaos, and output useful information in print, television or the Internet. Returning to our medical diagnosis example, the patient and doctor are each an information subsystem comprising an overall system where both actors are in communication.[^vander]
 
@@ -40,18 +40,29 @@ One final consideration that is important when discussing information systems ar
 
 A variety of activities have been conventionally performed in information systems in order to accomplish the goal of creating meaningful information from data.[^valacich] The table below identifies several, although this list is certainly not exclusive.[^trauth1] [^valacich]
 
-Activity              | Description
---------              | -----------
-Recording/originating | Collecting, creating, or updating data
-Classifying           | Arranging data according to characteristics and properties
-Arranging             | Organizing data into a logical structure, such as a table
-Sorting               | Ordering data in some sequential arrangement
-Calculating           | Applying mathematical formulas or operations on data
-Summarizing           | Reducing voluminous data to a more convienient and concise form
-Storing               | Persisting data (either temporarily or for long-term preservation) for future recall
-Retrieving            | Recalling stored data
-Reproducing           | Copying data (either temporarily for for long-term usage)
-Communicating         | Sending or distributing information between information subsystems, whether to a person or a machine
+-------------------------------------------------------------
+Activity                Description
+---------------------   -------------------------------------
+Recording/originating   Collecting, creating, or updating data
+
+Classifying             Arranging data according to characteristics and properties
+
+Arranging               Organizing data into a logical structure, such as a table
+
+Sorting                 Ordering data in some sequential arrangement
+
+Calculating             Applying mathematical formulas or operations on data
+
+Summarizing             Reducing voluminous data to a more convienient and concise form
+
+Storing                 Persisting data (either temporarily or for long-term preservation) for future recall
+
+Retrieving              Recalling stored data
+
+Reproducing             Copying data (either temporarily for for long-term usage)
+
+Communicating           Sending or distributing information between information subsystems, whether to a person or a machine
+-------------------------------------------------------------
 
 [^trauth1]: Eileen M. Trauth et al, Information Literacy: An Introduction to Infromation Systems (1st Ed. 1991) at 87.
 
@@ -65,7 +76,7 @@ The most important addition to the mix has been the general-purpose digital comp
 
 [^trauth2]: See, e.g., Eileen M. Trauth et al, Information Literacy: An Introduction to Infromation Systems (1st Ed. 1991) at 87 (listing several information processing tools).
 
-[^enfish]: Enfish, LLC v. Microsoft Corp., No. 2:12-CV-07360-MRP, 2014 WL 5661456 (C.D. Cal. Nov. 3, 2014) (noting "[f]or millennia, humans have used tables to store information." and citing Martin Campbell–Kelly et al., The History of Mathematical Tables: From Sumer to Spreadsheets 19 (Oxford 2003), for showing an example of ancient Mesopotamian table for year 1295 B.C.).
+[^enfish]: Enfish, LLC v. Microsoft Corp., No. 2:12-CV-07360-MRP, 2014 WL 5661456 (C.D. Cal. Nov. 3, 2014) (noting "[f]or millennia, humans have used tables to store information." and citing Martin Campbell-Kelly et al., The History of Mathematical Tables: From Sumer to Spreadsheets 19 (Oxford 2003), for showing an example of ancient Mesopotamian table for year 1295 B.C.).
 
 [^phillips]: Heather Phillips, The Great Library of Alexandria?, Library Philosophy and Practice (Aug. 2010) (http://unllib.unl.edu/LPP/^phillips.htm)
 
